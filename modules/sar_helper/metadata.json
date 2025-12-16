@@ -1,0 +1,19 @@
+{
+    "homepage": "https://github.com/dependix/sar_helper",
+    "maintainers": [
+        {
+            "name": "Anton Krivoborodov",
+            "email": "anton.krivoborodov@bmw.de",
+            "github": "antonkri",
+            "github_user_id": 63401640
+        }
+    ],
+    "repository": [
+        "github:dependix/sar_helper"
+    ],
+    "versions": [
+        "0.1.0",
+        "0.1.1"
+    ],
+    "yanked_versions": {}
+}
